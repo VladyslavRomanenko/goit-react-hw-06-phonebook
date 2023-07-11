@@ -15,6 +15,13 @@
   gap: 10px;
 }
 
+.textContact {
+  width: 280px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
 .contact {
   font-size: 18px;
   font-weight: 600;
